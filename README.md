@@ -1,2 +1,2 @@
 # -CodeAlpha_Chatbot_for-FAQs
-An intelligent FAQ chatbot that provides automated responses by processing and matching user queries with a database of frequently asked questions.
+It is a smart, AI-powered assistant designed to handle frequently asked questions with high accuracy and speed. It works by analyzing user queries and intelligently matching them with a pre-defined FAQ database. This ensures quick, relevant, and automated responses without human intervention. Ideal for customer support, it enhances user experience and reduces workload.
